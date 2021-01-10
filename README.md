@@ -4,4 +4,4 @@
 
  <p align = "center"><p><img src = "banana.jpg" width = "500"><em>Original Banana image</em></p> <p><img src = "banana_holes2.png" width = "500"><em>"Damaged" banana image</em></p> <p><img src = "banana_restored.png" width = "500"><em>Restored Banana image</em></p> </p>
  
-  <p align = "center"><p><img src = "apple.jpg" width = "500"><em>Original Banana image</em></p> <p><img src = "apple_holes.png" width = "500"><em>"Damaged" banana image</em></p> <p><img src = "apple_restored.png" width = "500"><em>Restored Banana image</em></p> </p>
+  <p align = "center"><p><img src = "apple.jpg" width = "500"><em>Original Apple image</em></p> <p><img src = "apple_holes.png" width = "500"><em>"Damaged" Apple image</em></p> <p><img src = "apple_restored.png" width = "500"><em>Restored Apple image</em></p> </p>
